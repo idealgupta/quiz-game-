@@ -1,0 +1,13 @@
+img{
+    position: relative;
+    height: 700px;
+    width: 1520px;
+}
+button{
+    position: relative;
+    bottom: 500px;
+    left: 550px;
+    font-size: 50px;
+    background-color: coral;
+    border-radius: 20px;
+}
